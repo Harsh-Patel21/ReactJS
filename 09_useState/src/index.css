@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.counter button{
+  padding: 20px;
+  margin: 10px 20px;
+  background-color: rgb(32, 32, 32);
+  color: white;
+}
+.counter h1{
+  background-color: rgb(60, 52, 52);
+  color: white;
+  width: fit-content;
+  font-size: 100px;
+  border-radius: 10px;
+  padding: 10px 70px;
+  margin: 20px;
+}
